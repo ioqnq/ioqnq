@@ -11,7 +11,7 @@ https://readme-typing-svg.demolab.com/demo/?color=7BF77B&lines=%E2%82%8A%E2%9C%A
 <br/>
 <div align="center">
  
- 🌷 Student at University POLITEHNICA of Bucharest
+ 🌷 Computer Science Student at University POLITEHNICA of Bucharest
  
  🪻 Interested in App Development
 
