@@ -48,7 +48,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file
 -->
 <div align="center">
- <a href="mailto:ioana,nedelcu643@gmail.com">
+ <a href="mailto:ioana.nedelcu643@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
  </a>
  <a href="https://www.linkedin.com/in/ioana-nedelcu-6b2339355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
