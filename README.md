@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
  
- 🌷 Student at National University of Science and Technology POLITEHNICA Bucharest
+ 🌷 Student at University POLITEHNICA of Bucharest
  
  🪻 Interested in App Development
 
