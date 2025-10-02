@@ -3,7 +3,7 @@
 https://readme-typing-svg.demolab.com/demo/?color=7BF77B&lines=%E2%82%8A%E2%9C%A9%E2%80%A7%E2%82%8A%CB%9A%E0%B1%A8%E0%A7%8E%CB%9A%E2%82%8A%E2%9C%A9%E2%80%A7%E2%82%8A;Welcome+to+my+Github+page!+%3AD
 -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AE96F&center=true&width=435&lines=Welcome+to+my+Github+!+%3AD;+%DD%81%E2%82%8A+%E2%8A%B9+.+%DD%81%CB%96+.+%DD%81%C2%B7%EA%95%A4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CEB71&center=true&width=435&lines=Welcome+to+my+Github+!+%3AD;+%DD%81%E2%82%8A+%E2%8A%B9+.+%DD%81%CB%96+.+%DD%81%C2%B7%EA%95%A4" alt="Typing SVG" /></a>
 <div/>
 
 <hr/>
