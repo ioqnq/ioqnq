@@ -1,15 +1,15 @@
-## Ioana's page 🌱
+<h3 align="center"> 💐 Ioana's Page 💐
 
 <hr/>
 <h3 align="center"> About me... </h3>
 <br/>
 <div align="center">
  
- 🌷 I’m currently working on ...
+ 🌷 Student at National University of Science and Technology POLITEHNICA Bucharest
  
- 🪻 I’m currently learning ...
+ 🪻 Interested in App Development
 
- 🌻 Smth smth
+ 🌻 Current project: -
 </div>
 
 <hr/>
