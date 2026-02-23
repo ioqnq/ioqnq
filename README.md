@@ -15,7 +15,7 @@ https://readme-typing-svg.demolab.com/demo/?color=7BF77B&lines=%E2%82%8A%E2%9C%A
  
  🪻 Interested in App Development
 
- 🌻 Current project: App-controlled Smart Greenhouse
+ 🌻 Current project: "Shoout", small audio-based game
 </div>
 
 <hr/>
