@@ -15,7 +15,7 @@ https://readme-typing-svg.demolab.com/demo/?color=7BF77B&lines=%E2%82%8A%E2%9C%A
  
  🪻 Interested in App Development
 
- 🌻 Current project: Shoout (small audio-based game)
+ 🌻 Current project: Pokemon Team Generator (React, PostgreSQL)
 </div>
 
 <hr/>
@@ -26,6 +26,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 <div align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu"/>
